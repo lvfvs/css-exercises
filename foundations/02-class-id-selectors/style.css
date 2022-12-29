@@ -1,0 +1,20 @@
+.one {
+  background-color: #ffa7a7;
+  font-family: sans-serif;
+}
+
+.increased-font-size {
+  font-size: 24px;
+}
+
+#two {
+  color: blue;
+  font-family: sans-serif;
+  font-size: 36px;
+}
+
+#three {
+  background-color: greenyellow;
+  font-family: sans-serif;
+  font-weight: bold;
+}
